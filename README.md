@@ -1,4 +1,4 @@
-# Medicare Chain
+# BlockChain Madicale Care
 MediCare Chain is a decentralized application built on top of Ethereum that aims to provide a HealthCare Solution by ensuring a transaparent and reliable system of providing insurance as well as donations to the patients, with utmost efficiency and zero involvement of any third party.
 
 ## What exactly are the Hurdles in Health Care Sector?
