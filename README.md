@@ -1,4 +1,4 @@
-# BlockChain Madicale Care
+# BlockChain Medical HealthCare
 Blockchain Madicale Care is a decentralized application built on top of Ethereum that aims to provide a HealthCare Solution by ensuring a transaparent and reliable system of providing insurance as well as donations to the patients, with utmost efficiency and zero involvement of any third party.
 
 ## What exactly are the Hurdles in Health Care Sector?
@@ -18,14 +18,14 @@ And this statistics remains same or even worse for many other underdeveloped cou
 
 Therefore, we need a system that eradicates these third parties and allow the patient to be in control of the complete insurance or donation amount so that they can avail better medical facilities.
 
-## Solution By blockchain madicale care
+## Solution By blockchain medical healthcare
 Medicare Chain address the issue of third parties and centralized authorities involved in the medical transactions in Health Care sector.
 
 Its utmost priority is to enable the patients to get a complete control over their entire medical funds without loosing it to any third party. 
 
 So that the patient can avail the health care facility that they deserve.
 
-## 3 Main tools of blockchain madicale care
+## 3 Main tools of blockchain medical healthcare
 * **Decentralization**: Eradicates any control of central authorities over the medical funds or donation amounts.
 Thus, ensures utmost security from any tamper with medical data
 
@@ -33,7 +33,7 @@ Thus, ensures utmost security from any tamper with medical data
 
 * **Blockchain**: Stores every single detail of all transactions on the Blockchain and makes it immutable.
 
-## Distribution of Power in blockchain madicale care
+## Distribution of Power in blockchain medical healthcare
 Centralization of any kind reduces trust in a system. Therefore its imperative not put all the controls in one hand.
 
 *Therefore blockchain madicale care solves this issue with a very imperative feature, i.e.* **Distribution of POWER.**
