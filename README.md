@@ -128,13 +128,9 @@ Step 6. Get test ether from Matic Faucet - https://faucet.matic.network/
 
 ## Author
 
-**Zaryab Afser**
+**Mustafizur Rahman**
 
-* [LinkedIn Profile](https://www.linkedin.com/in/zaryab-afser-97085b157/)
-* [Medium Profile](https://medium.com/@zaryabafser2000)
+* [LinkedIn Profile](https://www.linkedin.com/in/mustafizur-rahman-11a848139/)
 
-### License
 
-MIT License: http://adampritchard.mit-license.org/ or see [the `LICENSE` file](https://github.com/zaryab2000/Blog_on_Blocks/blob/master/LICENSE).
 
-#### Copyright © 2020, [Zaryab Afser](https://github.com/zaryab2000)
